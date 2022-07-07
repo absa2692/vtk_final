@@ -1,0 +1,10 @@
+C:\Users\absa\source\repos\vtk_final\vtk_final\bin\Debug\vtk_final.exe.config
+C:\Users\absa\source\repos\vtk_final\vtk_final\bin\Debug\vtk_final.exe
+C:\Users\absa\source\repos\vtk_final\vtk_final\bin\Debug\vtk_final.pdb
+C:\Users\absa\source\repos\vtk_final\ObjDir\2019\vtk_final\vtk_final.csprojAssemblyReference.cache
+C:\Users\absa\source\repos\vtk_final\ObjDir\2019\vtk_final\vtk_final.Form1.resources
+C:\Users\absa\source\repos\vtk_final\ObjDir\2019\vtk_final\vtk_final.Properties.Resources.resources
+C:\Users\absa\source\repos\vtk_final\ObjDir\2019\vtk_final\vtk_final.csproj.GenerateResource.cache
+C:\Users\absa\source\repos\vtk_final\ObjDir\2019\vtk_final\vtk_final.csproj.CoreCompileInputs.cache
+C:\Users\absa\source\repos\vtk_final\ObjDir\2019\vtk_final\vtk_final.exe
+C:\Users\absa\source\repos\vtk_final\ObjDir\2019\vtk_final\vtk_final.pdb
